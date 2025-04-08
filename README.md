@@ -41,7 +41,7 @@
 pip install pygame
 
 # 게임 실행
-python dodge_game.py
+python ballgame.py
 ```
 
 ---
