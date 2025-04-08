@@ -99,7 +99,7 @@ def game_loop(ball_count):
 ## 👩‍💻 제작자
 
 - 개발자: [eunkyo-j](https://github.com/eunkyo-j)
-- 프로젝트명: `smart-dispenser`와 별도로 만든 개인 미니 게임 프로젝트
+- 프로젝트명: 개인 미니 게임 프로젝트
 
 ---
 
