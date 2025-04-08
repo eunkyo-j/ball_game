@@ -79,9 +79,13 @@ def game_loop(ball_count):
 ## 🖼 게임 예시 화면
 
 > 아래 이미지는 실제 게임 실행 화면 예시입니다.  
-> (이미지는 `img/` 폴더에 저장하여 README와 함께 관리해주세요.)
+![Image](https://github.com/user-attachments/assets/6c2ac554-1018-4cc5-94bf-8cdbabc10383)
 
-![게임 예시](img/example.png)
+![Image](https://github.com/user-attachments/assets/3483f344-0a0f-44ab-b158-a80c6d90bec8)
+
+![Image](https://github.com/user-attachments/assets/80ef42cd-ec12-4b6f-b3a1-86ddd60bbd79)
+
+![Image](https://github.com/user-attachments/assets/b84a5b05-a1c1-453a-839d-c608512a846e)
 
 ---
 
